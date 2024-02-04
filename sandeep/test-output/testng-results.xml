@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[craete done ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-27T19:59:36 IST" name="Default suite" finished-at="2023-12-27T19:59:36 IST" duration-ms="120">
+    <groups>
+    </groups>
+    <test started-at="2023-12-27T19:59:36 IST" name="Default test" finished-at="2023-12-27T19:59:36 IST" duration-ms="120">
+      <class name="basics.DemoTestNg">
+        <test-method signature="create()[pri:0, instance:basics.DemoTestNg@46cdf8bd]" started-at="2023-12-27T19:59:36 IST" name="create" finished-at="2023-12-27T19:59:36 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[craete done ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- basics.DemoTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
